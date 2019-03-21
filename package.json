@@ -1,0 +1,26 @@
+{
+  "name": "express-error-pug-lecture",
+  "version": "1.0.0",
+  "description": "![Screenshot](https://res.cloudinary.com/turnup/image/upload/v1526512881/homepage-cards.png)",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.16.4",
+    "nodemon": "^1.18.10",
+    "pug": "^2.0.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cs-fullstack-master/express-error-pug-lecture.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cs-fullstack-master/express-error-pug-lecture/issues"
+  },
+  "homepage": "https://github.com/cs-fullstack-master/express-error-pug-lecture#readme"
+}
